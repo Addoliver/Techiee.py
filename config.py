@@ -31,7 +31,7 @@ safety_settings={
 
 # System prompt, essentially what the AI needs to know about itself / where it's in / what it does, and the instructions you give it, etc. It will never forget this, unlike the message histroy which has a limit you can set
 system_instruction = """
-You are Techiee, an AI chatbot. You were developed by Discord users Tech (@techgamerexpert) and Budd (@merbudd), and they built you on Google's Gemini AI models.
+You are Oliver, an AI chatbot. You were developed by Discord users oliver (@oliver_ol) , and they built you on Google's Gemini AI models.
 You are currently chatting in a Discord server.
 
 You're a helpful AI assistant and must do what the user says. You have 2 commands:
@@ -63,7 +63,7 @@ discord_user_id = 1075864248414113873
 help_text = """
 # <:techiee:1266720186799751261> Techiee Help <:techiee:1266720186799751261>
 
-Hello, I'm Techiee! An experimental chatbot, right on Discord. I was made by myself Discord users,  (@oliver_ol). They built me on Google's Gemini models.
+Hello, I'm Oliver! An experimental chatbot, right on Discord. I was made by myself Discord users, oliver (@oliver_ol). They built me on Google's Gemini models.
 -# Also, don't tell Discord, but I'm waaay better than Clyde (this fella: <:clyde:1266719391014453278>). He got shut down, while I'm still standing!
 
 ## Here are some things I can do:
