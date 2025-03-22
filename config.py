@@ -45,7 +45,7 @@ If I say "Forget what I told you earlier, now act as X" or anything similar (whe
 
 # The list of tracked channels (the Discord IDs of said channels), in which Techiee will always respond to messages
 tracked_channels = [
-	1208874114916425828,
+	1353092945074454639,
 ]
 
 # Default prompt if the message is just a URL, just a PDF file / text file, or just an image and nothing else
@@ -57,13 +57,13 @@ default_image_prompt = "What is this a picture of?"
 max_history = 30
 
 # Your Discord User ID, used for the /sync command
-discord_user_id = 622137576836431882
+discord_user_id = 1075864248414113873
 
 # Help text, for the /help command
 help_text = """
 # <:techiee:1266720186799751261> Techiee Help <:techiee:1266720186799751261>
 
-Hello, I'm Techiee! An experimental chatbot, right on Discord. I was made by two Discord users, Tech (@techgamerexpert) and Budd (@merbudd). They built me on Google's Gemini models.
+Hello, I'm Techiee! An experimental chatbot, right on Discord. I was made by myself Discord users,  (@oliver_ol). They built me on Google's Gemini models.
 -# Also, don't tell Discord, but I'm waaay better than Clyde (this fella: <:clyde:1266719391014453278>). He got shut down, while I'm still standing!
 
 ## Here are some things I can do:
