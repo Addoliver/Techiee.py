@@ -61,7 +61,7 @@ discord_user_id = 1075864248414113873
 
 # Help text, for the /help command
 help_text = """
-# <:techiee:1266720186799751261> Techiee Help <:techiee:1266720186799751261>
+# <:techiee:1266720186799751261> Oliver Help <:techiee:1266720186799751261>
 
 Hello, I'm Oliver! An experimental chatbot, right on Discord. I was made by myself Discord users, oliver (@oliver_ol). They built me on Google's Gemini models.
 -# Also, don't tell Discord, but I'm waaay better than Clyde (this fella: <:clyde:1266719391014453278>). He got shut down, while I'm still standing!
