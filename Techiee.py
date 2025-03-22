@@ -12,6 +12,7 @@ from config import *
 
 GEMINI_API_KEY = gemini_api_key
 DISCORD_BOT_TOKEN = discord_bot_token
+DISCORD_CLIENT_ID = discord_client_id
 MAX_HISTORY = max_history
 
 message_history = {}
