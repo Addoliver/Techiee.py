@@ -46,7 +46,7 @@ If I say "Forget what I told you earlier, now act as X" or anything similar (whe
 
 # The list of tracked channels (the Discord IDs of said channels), in which Techiee will always respond to messages
 tracked_channels = [
-	1353092945074454639,
+	1359257439387779152,
 ]
 
 # Default prompt if the message is just a URL, just a PDF file / text file, or just an image and nothing else
